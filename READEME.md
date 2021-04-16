@@ -1,3 +1,3 @@
 # ds_salary_proj
-## data resiyrces
+## data resources
 https://www.kaggle.com/andrewmvd/data-analyst-jobs
